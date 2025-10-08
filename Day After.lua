@@ -1,6 +1,6 @@
 userMode = 2 -- 1 = Developer mode, 2 = user mode
 
-Date = "20991011"--Type Here Your Script End Date .
+Date = "29991011"--Type Here Your Script End Date .
 date = os.date("%Y%m%d")
 if date >= Date then
   print([[⚠ SCRIPT EXPIRED ⚠
