@@ -1,17 +1,5 @@
 userMode = 2 -- 1 = Developer mode, 2 = user mode
 
-Date = "29991011"--Type Here Your Script End Date .
-date = os.date("%Y%m%d")
-if date >= Date then
-  print([[⚠ SCRIPT EXPIRED ⚠
-  
-NEW VERSION AVAILABLE]])
-  return
-  end
-  -- Type Your Script Codes Bellow and If Script Isn't Expired Then Script Will Run. 
-gg.alert("WELCOME")
-
---[[ ℹ️ It will check for updates. Using the variable scversion which stores version info.]] --
 
 
 
