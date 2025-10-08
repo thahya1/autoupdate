@@ -1,17 +1,3 @@
---[[ Field_Offset_Finder
-   Free and Open Source
-   Version : 4
-   Script Made By: Hackers House
-   Get Updates: https://t.me/NaniR
-   Chat Group : https://t.me/NaniR_chat_group
-   GG Tools Collection : https://hackershouse.tech/game-guardian-lua-script-tools
-   Official download and documentation : https://hackershouse.tech/feild-offset-finder-game-guardian
-   Note: Hackers House is the developer of tool "field offset finder", if this tool is being used somewhere else then the developer has used this open source tool to get some functions to his/her script, and the script belongs to the owner of that script not hackers house. If you have any question regarding the script then reach out to the developer of the script, you should reach out hackers house only if you have queries regarding the field offset finder.
-]] --
-
-
-
-
 userMode = 2 -- 1 = Developer mode, 2 = user mode
 
 Date = "20991011"--Type Here Your Script End Date .
